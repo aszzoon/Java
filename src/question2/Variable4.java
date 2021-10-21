@@ -3,7 +3,7 @@ package question2;
 import java.util.Scanner;
 
 // 키보드에서 입력한 정숫값을 표시하는 프로그램을 작성하자.
-public class Vriable4 {
+public class Variable4 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 
