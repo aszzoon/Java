@@ -1,3 +1,5 @@
+package trainning;
+
 public class MartEvent {
     public static void main(String[] args) {
         double a = 0.13;

@@ -1,3 +1,5 @@
+package trainning;
+
 public class StringExample {
     public static void main(String[] args) {
         System.out.println("나는 안성준");
